@@ -15,7 +15,7 @@
 ## 安装
 
 ```
-composer require chunhei2008/easy-open-wechat
+composer require fj123ll/easy-open-wechat
 ```
 
 ## wiki
